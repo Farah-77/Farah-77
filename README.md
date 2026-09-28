@@ -1,16 +1,21 @@
-## Hi there 👋
+# Farah Alshammari
 
-<!--
-**Farah-77/Farah-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Machine Learning | Generative AI | LLMs
 
-Here are some ideas to get you started:
+Bachelor's in Artificial Intelligence, University of Hail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in building AI systems, machine learning models, and LLM applications.
+
+## Skills
+
+- AI / Machine Learning
+- LLMs / Generative AI
+- Python
+- PyTorch / TensorFlow
+- SQL
+- FastAPI
+- React / TypeScript
+
+## Links
+
+-[LinkedIn](https://www.linkedin.com/in/farah-alshammari-8a5b66340)
