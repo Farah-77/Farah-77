@@ -18,4 +18,5 @@ Interested in building AI systems, machine learning models, and LLM applications
 
 ## Links
 
--[LinkedIn](https://www.linkedin.com/in/farah-alshammari-8a5b66340)
+- [LinkedIn](https://www.linkedin.com/in/farah-alshammari-8a5b66340)
+- [CV](./Farah-Alshammari-CV.pdf)
